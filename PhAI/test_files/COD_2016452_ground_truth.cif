@@ -1,0 +1,240 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 00:18:51 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176760 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/2/01/64/2016452.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2016452
+loop_
+_publ_author_name
+'Figueira, Jo\~ao'
+'Rodrigues, Jo\~ao'
+'Russo, Luca'
+'Rissanen, Kari'
+_publ_section_title
+;
+ Three 2,5-dialkoxy-1,4-diethynylbenzene derivatives
+;
+_journal_coeditor_code           SK3181
+_journal_issue                   2
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              o33
+_journal_page_last               o36
+_journal_paper_doi               10.1107/S0108270107065523
+_journal_volume                  64
+_journal_year                    2008
+_chemical_formula_iupac          'C14 H14 O2'
+_chemical_formula_moiety         'C14 H14 O2'
+_chemical_formula_sum            'C14 H14 O2'
+_chemical_formula_weight         214.25
+_chemical_name_systematic
+;
+2,5-Diethoxy-1,4-diethynylbenzene
+;
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90
+_cell_angle_beta                 112.74(3)
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   9.748(2)
+_cell_length_b                   8.890(2)
+_cell_length_c                   7.566(2)
+_cell_measurement_temperature    173(2)
+_cell_volume                     604.7(3)
+_computing_cell_refinement       'HKL Scalepack (Otwinowski & Minor, 1997)'
+_computing_data_collection       'Collect (Hooft, 1998)'
+_computing_data_reduction
+'HKL Denzo and Scalepack (Otwinowski & Minor, 1997)'
+_computing_molecular_graphics    'Ortep-3 for Windows (Farrugia, 1997)'
+_computing_publication_material  'WinGX (Farrugia, 1999)'
+_computing_structure_refinement  'SHELXL97  (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS97  (Sheldrick, 1997)'
+_diffrn_measured_fraction_theta_full 0.984
+_diffrn_measured_fraction_theta_max 0.984
+_diffrn_measurement_device_type  'Nonius KappaCCD'
+_diffrn_measurement_method       'CCD rotation images, thick slices'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.024
+_diffrn_reflns_limit_h_max       10
+_diffrn_reflns_limit_h_min       -11
+_diffrn_reflns_limit_k_max       10
+_diffrn_reflns_limit_k_min       -9
+_diffrn_reflns_limit_l_max       8
+_diffrn_reflns_limit_l_min       -7
+_diffrn_reflns_number            4943
+_diffrn_reflns_theta_full        25.02
+_diffrn_reflns_theta_max         25.02
+_diffrn_reflns_theta_min         3.71
+_exptl_absorpt_coefficient_mu    0.078
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    1.177
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       block
+_exptl_crystal_F_000             228
+_exptl_crystal_size_max          0.3
+_exptl_crystal_size_mid          0.2
+_exptl_crystal_size_min          0.2
+_refine_diff_density_max         0.144
+_refine_diff_density_min         -0.188
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.07
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     74
+_refine_ls_number_reflns         1045
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.07
+_refine_ls_R_factor_gt           0.0381
+_refine_ls_shift/su_max          0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0343P)^2^+0.2580P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.0949
+_reflns_number_gt                910
+_reflns_number_total             1045
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            sk3181.cif
+_cod_data_source_block           II
+_cod_original_sg_symbol_H-M      'P 21/c'
+_cod_database_code               2016452
+_cod_database_fobs_code          2016452
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x, -y-1/2, z-1/2'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+O O1 0.21490(11) 0.20584(11) 0.21994(14) 0.0314(3) Uani d . 1
+C C1 0.38489(18) -0.13769(18) 0.4200(2) 0.0430(4) Uani d . 1
+H H1 0.4739 -0.1709 0.5195 0.052 Uiso calc R 1
+C C2 0.27296(16) -0.09599(16) 0.2948(2) 0.0321(4) Uani d . 1
+C C3 0.13512(15) -0.04637(16) 0.14445(19) 0.0265(3) Uani d . 1
+C C4 0.02968(15) -0.15371(16) 0.03503(19) 0.0279(4) Uani d . 1
+H H4 0.0505 -0.2578 0.0589 0.033 Uiso calc R 1
+C C5 0.10497(15) 0.10871(16) 0.10794(19) 0.0259(3) Uani d . 1
+C C6 0.19286(16) 0.36579(15) 0.1785(2) 0.0297(4) Uani d . 1
+H H6A 0.102 0.4011 0.1945 0.036 Uiso calc R 1
+H H6B 0.1822 0.3863 0.0452 0.036 Uiso calc R 1
+C C7 0.32904(17) 0.44534(18) 0.3193(2) 0.0375(4) Uani d . 1
+H H7A 0.3411 0.4199 0.4505 0.056 Uiso calc R 1
+H H7B 0.3165 0.5543 0.3007 0.056 Uiso calc R 1
+H H7C 0.4174 0.4132 0.2976 0.056 Uiso calc R 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 0.0307(6) 0.0224(5) 0.0325(6) -0.0064(4) 0.0029(4) -0.0030(4)
+C1 0.0368(9) 0.0312(9) 0.0441(10) 0.0007(7) -0.0030(8) -0.0029(7)
+C2 0.0323(8) 0.0234(7) 0.0358(8) -0.0040(6) 0.0079(7) -0.0044(6)
+C3 0.0254(7) 0.0259(8) 0.0262(7) -0.0030(6) 0.0078(6) -0.0018(6)
+C4 0.0297(8) 0.0216(7) 0.0296(8) -0.0021(6) 0.0085(6) -0.0011(6)
+C5 0.0261(7) 0.0249(7) 0.0254(7) -0.0071(5) 0.0085(6) -0.0049(5)
+C6 0.0322(8) 0.0228(8) 0.0315(8) -0.0041(6) 0.0095(6) -0.0023(6)
+C7 0.0358(8) 0.0273(8) 0.0437(9) -0.0083(6) 0.0092(7) -0.0064(6)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0 0 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0106 0.006 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle
+C5 O1 C6 . . 117.64(11)
+C2 C1 H1 . . 180
+C1 C2 C3 . . 178.93(17)
+C4 C3 C5 . . 119.67(12)
+C4 C3 C2 . . 119.80(13)
+C5 C3 C2 . . 120.54(12)
+C5 C4 C3 3 . 120.86(13)
+C5 C4 H4 3 . 119.6
+C3 C4 H4 . . 119.6
+O1 C5 C4 . 3 124.68(13)
+O1 C5 C3 . . 115.84(12)
+C4 C5 C3 3 . 119.47(12)
+O1 C6 C7 . . 106.75(12)
+O1 C6 H6A . . 110.4
+C7 C6 H6A . . 110.4
+O1 C6 H6B . . 110.4
+C7 C6 H6B . . 110.4
+H6A C6 H6B . . 108.6
+C6 C7 H7A . . 109.5
+C6 C7 H7B . . 109.5
+H7A C7 H7B . . 109.5
+C6 C7 H7C . . 109.5
+H7A C7 H7C . . 109.5
+H7B C7 H7C . . 109.5
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+O1 C5 . 1.3820(16)
+O1 C6 . 1.4541(17)
+C1 C2 . 1.194(2)
+C1 H1 . 0.95
+C2 C3 . 1.454(2)
+C3 C4 . 1.412(2)
+C3 C5 . 1.414(2)
+C4 C5 3 1.398(2)
+C4 H4 . 0.95
+C5 C4 3 1.398(2)
+C6 C7 . 1.518(2)
+C6 H6A . 0.99
+C6 H6B . 0.99
+C7 H7A . 0.98
+C7 H7B . 0.98
+C7 H7C . 0.98
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion_site_symmetry_4
+_geom_torsion
+C5 C3 C4 C5 3 -0.6(2)
+C2 C3 C4 C5 3 178.77(13)
+C6 O1 C5 C4 3 -3.9(2)
+C6 O1 C5 C3 . 175.96(12)
+C4 C3 C5 O1 . -179.22(12)
+C2 C3 C5 O1 . 1.41(19)
+C4 C3 C5 C4 3 0.6(2)
+C2 C3 C5 C4 3 -178.77(13)
+C5 O1 C6 C7 . -179.40(12)
